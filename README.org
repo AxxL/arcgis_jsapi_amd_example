@@ -1,0 +1,17 @@
+*arcgis_jsapi_amd_example* bezieht sich auf den GIS IQ Blog: http://gisiq.blogs.esri.de
+
+Dieses Beispiel ist eine Modifikation des "ArcGIS API for JavaScript"
+Beispiels "Create web map by ID" der Version 3.4.
+(http://help.arcgis.com/en/webapi/javascript/arcgis/jssamples/ags_createwebmapid.html)
+
+
+* Dateien
+
+  - README.org
+  - index.html
+  - css/layout.css
+  - js/init.js
+
+* Link
+
+https://github.com/AxxL/arcgis_jsapi_amd_example
